@@ -2,12 +2,11 @@
 ## Udacity Machine Learning Engineer Nanodegree
 ## Topic: Unsupervised Learning
 
-## Description
+# Description
 
 In this project, the annual spending of customers of a wholesale distributor on various product categories are analysed and used to train an unsupervised learning model. The aim is to divide the customers into groups according to their spending characteristics in order to provide the distributor with insight into how to best structure their delivery service to meet the needs of each customer.  
 
-
-## Data
+# Data
 
 The dataset used in this project consists of 440 datapoints collected from clients of a wholesale distributor in Lisbon, Portugal. It can be found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wholesale+customers).
 
